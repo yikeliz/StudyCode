@@ -1,0 +1,7 @@
+
+
+one
+
+1,int float char int
+2,当int类型不够大的时候
+3，
